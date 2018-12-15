@@ -45,3 +45,5 @@ class TestLogoin():
         self.login.page_input_password(password)
         # 点击登录
         self.login.page_click_login_btn()
+    def test_01(self):
+        print('123')
